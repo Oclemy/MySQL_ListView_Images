@@ -5,7 +5,7 @@ Android MySQL Images with ListView.
 
 * The table Structure :
 
-<img src="https://github.com/Oclemy/MySQL_ListView_Images/blob/master/demos/table%20structure.PNG" alt="RecyclerView MySQL" />
+<img src="https://github.com/Oclemy/MySQL_ListView_Images/blob/master/demos/table%20structure.PNG" alt="ListView MySQL" />
 
 
 * We retrieve image urls and texts from MySQL database and render in a custom listview.
@@ -16,9 +16,11 @@ Android MySQL Images with ListView.
 
 * The retrieved JSON in a browser.
 
-![RecyclerView MySQL](demos/retrieved json.PNG "Android RecyclerViewMySQL")
+<img src="https://github.com/Oclemy/MySQL_ListView_Images/blob/master/demos/retrieved%20json.PNG" alt="ListView MySQL" />
+
 
 * Result
 
-![RecyclerView MySQL](demos/MySQL ListView Images.PNG "Android RecyclerViewMySQL")
+<img src="https://github.com/Oclemy/MySQL_ListView_Images/blob/master/demos/MySQL%20ListView%20Images.PNG" alt="ListView MySQL" />
+
 
