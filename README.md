@@ -5,7 +5,8 @@ Android MySQL Images with ListView.
 
 * The table Structure :
 
-![RecyclerView MySQL](demos/table structure.PNG "Android RecyclerViewMySQL")
+
+<img src="https://github.com/Oclemy/MySQL_ListView_Images/table structure.PNG" alt="RecyclerView MySQL"  />
 
 * We retrieve image urls and texts from MySQL database and render in a custom listview.
 * We fetchn images asynchronously using Picasso.
